@@ -1,6 +1,6 @@
 # README File for Universidad Adolfo Ibáñez (UAI)
     Universidad Adolfo Ibáñez; Santiago, Chile.
-    Please contact **[Name] (email)** for more information.
+    Please contact **Pedro Reszka (pedro.reszka@uai.cl)** for more information.
 
 # Experimental conditions: milligram-scale thermogravimetric test
 A custom thermogravimetric test setup was used to conduct mass loss experiments on mg-scale samples. The setup consisted of a vertical tubular furnace and an analytical balance, allowing continuous mass measurements during heating.
@@ -15,7 +15,6 @@ Prior to each test, the system was flooded with nitrogen for 30 minutes. The sam
 The crucible was mechanically connected to the analytical balance through the brass rod and connected to the 3D part. 
 
 
-**Reference: More information is available at: [J. Smith, et al., Journal Na,e, 20xx]
 
 * Heating rate: 20 K/min
 * Temperature program
@@ -29,9 +28,9 @@ The crucible was mechanically connected to the analytical balance through the br
   - **Temperature calibration**: Since the tubular furnace reports the furnace wall temperature rather than the crucible temperature, a Type-K thermocouple connected to a Labjack T7-Pro data acquisition system was placed directly at the crucible location. The recorded temperature evolution was used to establish the calibration function relating the crucible temperature to the furnace temperature. The calibration curve was fitted using a third-order polynomial function of the furnace wall temperature (in °C). 
 * Crucible
   - Type: AISI 304 Stainless Steel
-  - Volume: ???
+  - Volume: 652.9 mm^3
   - Diameter: 7.3 mm (Inner)
-  - Mass: ???
+  - Mass: 7.261 g
   - Lid: None
   - Note: Cylindrical Geometry, 4.2 mm depth
 * Carrier Gas
